@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="..\..\..\..\Downloads\startbootstrap-grayscale-gh-pages\assets\favicon.ico" Link="wwwroot\assets\favicon.ico" />
+  </ItemGroup>
+
+</Project>
